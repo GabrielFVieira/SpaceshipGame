@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 968ff759cece4bd439840e24d35d1da8
+timeCreated: 1495752426
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - Left: {instanceID: 0}
+  - Right: {instanceID: 0}
+  - enemyBulletPrefab: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - characters: {instanceID: 0}
+  - tripleBulletPrefab: {fileID: 1752838173005014, guid: 0c7ae5c78b9deeb4eba9e5b3e6e647ec,
+      type: 2}
+  - rapidFirePrefab: {fileID: 1754683408775742, guid: 798f794e8313135498fd261dbf9d79a4,
+      type: 2}
+  - forceShieldPrefab: {fileID: 1763959555961332, guid: a347d9436525caf4d9d0ae6a34bf9318,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
